@@ -15,7 +15,7 @@
 ## System Requirements
 
 ### For Windows:
-- **No additional dependencies required**, the application includes all necessary libraries, and Python is not required.
+- **Just ffmpeg
 <br><br>
 ### For Linux:
 - **Python 3.x** (automatically installed as a dependency)
