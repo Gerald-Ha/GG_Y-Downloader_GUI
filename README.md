@@ -1,6 +1,3 @@
-Here's the updated **README.md** text for the **GG Y-Downloader** project in English:
-
----
 
 # GG Y-Downloader
 
